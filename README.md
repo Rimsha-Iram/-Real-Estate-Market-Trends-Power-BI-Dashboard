@@ -6,7 +6,7 @@ It highlights global affordability patterns, rental return potential, and econom
 
 ---
 
-![📊 Dashboard Preview](https://github.com/yourusername/global-housing-market-dashboard/blob/main/dashboard.png)
+![📊 Dashboard Preview](https://github.com/Rimsha-Iram/-Real-Estate-Market-Trends-Power-BI-Dashboard/blob/main/Dashboard.png)
 
 ---
 
